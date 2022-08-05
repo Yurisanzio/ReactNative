@@ -1,5 +1,5 @@
-- TesteDeltaReactNative
-Crud de alunos para o teste de React Native da empresa Delta Global
+
+Crud de alunos React Native 
 
 Banco de dados utilizado: Firebase
 
